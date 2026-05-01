@@ -5,6 +5,7 @@ A sticky note board prototype built with Next.js, React, TypeScript, and Tailwin
 ## Links
 
 - Live demo: [GitHub Pages](https://jessypouliot98.github.io/tempo-take-home-2026/)
+- Preview video: [docs/Preview.mp4](docs/Preview.mp4)
 - Project description: [docs/Description.md](docs/Description.md)
 - Take-home prompt: [docs/Take Home Assessment (FE) - Sticky Notes.pdf](docs/Take%20Home%20Assessment%20(FE)%20-%20Sticky%20Notes.pdf)
 
