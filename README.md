@@ -38,10 +38,6 @@ pnpm dev
 http://localhost:3000
 ```
 
-## Preview
-
-<video src="https://github.com/jessypouliot98/tempo-take-home-2026/raw/refs/heads/main/docs/Preview.mp4" width="100%" controls/>
-
 ## Deployment
 
 This repo includes a GitHub Actions workflow at `.github/workflows/deploy-pages.yml` that builds and deploys the site to GitHub Pages on pushes to `main`.
